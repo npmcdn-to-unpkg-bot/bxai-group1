@@ -1,0 +1,34 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byronyi/bxai-group1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byronyi/bxai-group1/issues"
+  },
+  "homepage": "https://github.com/byronyi/bxai-group1#readme",
+  "dependencies": {
+    "babelify": "^7.3.0",
+    "bootstrap": "^3.3.7",
+    "imports-loader": "^0.6.5",
+    "jquery": "^3.1.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.2"
+  }
+}
